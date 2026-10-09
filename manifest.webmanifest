@@ -3,7 +3,7 @@
   "short_name": "10000 слов",
   "description": "Интервальные повторения, 11 режимов, 28 тем, уровни A–E. Работает офлайн.",
   "lang": "ru",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
@@ -11,6 +11,6 @@
   "theme_color": "#0e1119",
   "icons": [
     { "src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
-    { "src": "icon-180.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "maskable" }
   ]
 }
